@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0ccce4d-37fa-41b2-ba93-f7e35fc3e239" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter1/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter1/InvokeAbstractClassMethod.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/chapter1/HelloWorld.java" afterPath="$PROJECT_DIR$/src/chapter1/HelloWorld.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,10 +44,9 @@
         <entry file="file://$PROJECT_DIR$/src/chapter1/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+              <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
               <folding>
                 <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,7 +68,7 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1495692625346" expanded="true" signature="39552:39567" ph="..." />
+                <marker date="1495692785341" expanded="true" signature="39121:39136" ph="..." />
               </folding>
             </state>
           </provider>
@@ -645,12 +642,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495691263720</updated>
-      <workItem from="1495691267442" duration="1361000" />
+      <workItem from="1495691267442" duration="1418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1361000" />
+    <option name="totallyTimeSpent" value="1418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="639" y="38" width="1936" height="1025" extended-state="0" />
@@ -707,7 +704,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1495692625346" expanded="true" signature="39552:39567" ph="..." />
+            <marker date="1495692785341" expanded="true" signature="39121:39136" ph="..." />
           </folding>
         </state>
       </provider>
@@ -744,10 +741,9 @@
     <entry file="file://$PROJECT_DIR$/src/chapter1/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding>
             <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
           </folding>
         </state>
       </provider>
